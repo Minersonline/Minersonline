@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello there 😊 Minersonline here
+## A Year 1 NYP Student in course **`COMMON ICT PROGRAMME`**, develops games and applications as a hobby.
+
+### Programming Languages I work with:
+* ### Javascript
+* ### Luau 
+* ### Python
+* ### HTML & CSS
+
+### Some Stuff I've created and worked on:
+### Roblox games
+### Discord Bots
 
 <!--
 **Minersonline/Minersonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

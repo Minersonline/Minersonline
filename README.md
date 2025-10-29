@@ -1,5 +1,5 @@
 # Hello there 😊 Minersonline here
-## A Year 1 NYP Student in course **`COMMON ICT PROGRAMME`**, develops games and applications as a hobby.
+## A Year 2 NYP Student in course **`CyberSecurity and Digital Forensics`**, develops games and applications as a hobby.
 
 ### Programming Languages I work with:
 * ### Javascript
